@@ -7,18 +7,18 @@ building stocks"** (S. F. Tadeu; companion deterministic study under review at
 
 ## Contents
 
-- `resultados/opcoes_categoria.json` - 1,078 measure-level Monte Carlo
+- `opcoes_categoria.json` - 1,078 measure-level Monte Carlo
   valuations (612 base grid + 432 technology-cost scenarios + 34
   discount-rate robustness runs). Each entry: option value (EUR/m2), Monte
   Carlo standard error, between-seed dispersion, exercise probabilities.
-- `resultados/opcoes_pacote.json` - 72 package-level valuations (24 base:
+- `opcoes_pacote.json` - 72 package-level valuations (24 base:
   8 archetypes x 3 climates; + 48 discount-rate robustness at 1%/5%,
   suffixes `|r1pct` / `|r5pct`).
 - `parametros_calibracao.json` - complete stochastic calibration (OU/GBM
   price processes, electricity-gas correlation, technology-cost poles with
   IRENA extraction anchors, carbon and grid-emission-factor scenarios,
   discount rates, grid design).
-- `scripts/reproduzir_tabelas.py` - regenerates every table of the paper
+- `reproduzir_tabelas.py` - regenerates every table of the paper
   directly from the JSON files (stdlib only).
 
 ## What is *not* here
