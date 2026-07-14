@@ -1,12 +1,17 @@
 # -*- coding: utf-8 -*-
 """Regenera as tabelas do artigo a partir dos JSON de resultados.
 Sem dependencias externas: json e stdlib bastam.
-Uso:  python scripts/reproduzir_tabelas.py   (a partir da raiz do repo)
+Uso:  python reproduzir_tabelas.py   (os JSON podem estar na mesma pasta,
+em ./resultados/ ou em ../resultados/ - o script encontra-os)
 """
 import json
 import os
 
-R = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'resultados')
+_AQUI = os.path.dirname(os.path.abspath(__file__))
+_CANDIDATOS = [_AQUI, os.path.join(_AQUI, 'resultados'),
+               os.path.join(_AQUI, '..', 'resultados')]
+R = next(p for p in _CANDIDATOS
+         if os.path.exists(os.path.join(p, 'opcoes_categoria.json')))
 cat = json.load(open(os.path.join(R, 'opcoes_categoria.json'), encoding='utf-8'))
 pac = json.load(open(os.path.join(R, 'opcoes_pacote.json'), encoding='utf-8'))
 
