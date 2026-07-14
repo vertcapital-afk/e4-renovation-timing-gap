@@ -1,0 +1,1082 @@
+{
+ "RB1|Coimbra": {
+  "rb": "RB1",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 465.78208848371247,
+  "desvio_entre_sementes": 0.0674348910070075,
+  "erro_padrao_mc_max": 0.08541392515978327,
+  "valores_por_semente": [
+   465.7059097210926,
+   465.8341443112206,
+   465.8062114188242
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Bragança": {
+  "rb": "RB1",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 1158.3866418426649,
+  "desvio_entre_sementes": 0.21366049109276353,
+  "erro_padrao_mc_max": 0.1769558078532415,
+  "valores_por_semente": [
+   1158.265074258575,
+   1158.63334711633,
+   1158.2615041530892
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Évora": {
+  "rb": "RB1",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 612.6690000839413,
+  "desvio_entre_sementes": 0.037175072809387984,
+  "erro_padrao_mc_max": 0.10450092945368829,
+  "valores_por_semente": [
+   612.6457262803856,
+   612.6494002511041,
+   612.7118737203344
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Coimbra": {
+  "rb": "RB2",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 265.15531442490914,
+  "desvio_entre_sementes": 0.018645094145857178,
+  "erro_padrao_mc_max": 0.0645110643280476,
+  "valores_por_semente": [
+   265.1396361255463,
+   265.1759317877882,
+   265.1503753613929
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Bragança": {
+  "rb": "RB2",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 853.3004513846018,
+  "desvio_entre_sementes": 0.11084005520996415,
+  "erro_padrao_mc_max": 0.142011600639033,
+  "valores_por_semente": [
+   853.4155806413528,
+   853.1944671473997,
+   853.2913063650532
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Évora": {
+  "rb": "RB2",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 403.71748008167816,
+  "desvio_entre_sementes": 0.08832070698809678,
+  "erro_padrao_mc_max": 0.08214553755944927,
+  "valores_por_semente": [
+   403.6538198238078,
+   403.6803096601897,
+   403.8183107610372
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Coimbra": {
+  "rb": "RB3",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 23.61605766761906,
+  "desvio_entre_sementes": 0.028877272139628964,
+  "erro_padrao_mc_max": 0.025124205435666926,
+  "valores_por_semente": [
+   23.600671872344865,
+   23.64936998804555,
+   23.598131142466766
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Bragança": {
+  "rb": "RB3",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 303.9285545132794,
+  "desvio_entre_sementes": 0.053498344724330155,
+  "erro_padrao_mc_max": 0.0595770437727354,
+  "valores_por_semente": [
+   303.9670187142337,
+   303.95118470874934,
+   303.8674601168553
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Évora": {
+  "rb": "RB3",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 99.00176275522682,
+  "desvio_entre_sementes": 0.014251607011902541,
+  "erro_padrao_mc_max": 0.033723100834229316,
+  "valores_por_semente": [
+   98.98824407083131,
+   99.00039546333764,
+   99.0166487315115
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Coimbra": {
+  "rb": "RB4",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 0.0,
+  "desvio_entre_sementes": 0.0,
+  "erro_padrao_mc_max": 0.0,
+  "valores_por_semente": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Bragança": {
+  "rb": "RB4",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 0.009641514610752432,
+  "desvio_entre_sementes": 0.00047675773467350423,
+  "erro_padrao_mc_max": 0.0005988611125374796,
+  "valores_por_semente": [
+   0.009297405913746238,
+   0.010185711191546539,
+   0.009441426726964519
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Évora": {
+  "rb": "RB4",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 3.450383475169732e-05,
+  "desvio_entre_sementes": 3.6243248695835118e-06,
+  "erro_padrao_mc_max": 2.2106325594263154e-05,
+  "valores_por_semente": [
+   3.0323729538810226e-05,
+   3.67693041964921e-05,
+   3.641847051978964e-05
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Coimbra": {
+  "rb": "RB5",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 417.65110406747334,
+  "desvio_entre_sementes": 0.02588744293691874,
+  "erro_padrao_mc_max": 0.0768833952032038,
+  "valores_por_semente": [
+   417.672811212188,
+   417.6580482366319,
+   417.62245275360016
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Bragança": {
+  "rb": "RB5",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 1090.710083948971,
+  "desvio_entre_sementes": 0.11300500399519225,
+  "erro_padrao_mc_max": 0.16526269712081268,
+  "valores_por_semente": [
+   1090.702481442492,
+   1090.6010721606358,
+   1090.8266982437856
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Évora": {
+  "rb": "RB5",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 582.0804143288448,
+  "desvio_entre_sementes": 0.049653758926262455,
+  "erro_padrao_mc_max": 0.09813334032813652,
+  "valores_por_semente": [
+   582.1303228893355,
+   582.0310193557325,
+   582.0799007414662
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Coimbra": {
+  "rb": "RB6",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 322.5401928144377,
+  "desvio_entre_sementes": 0.06415039869564353,
+  "erro_padrao_mc_max": 0.07045002111263483,
+  "valores_por_semente": [
+   322.46996576699166,
+   322.5549005789722,
+   322.5957120973494
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Bragança": {
+  "rb": "RB6",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 927.055193157412,
+  "desvio_entre_sementes": 0.03789986474793053,
+  "erro_padrao_mc_max": 0.15021231825592496,
+  "valores_por_semente": [
+   927.0385431340851,
+   927.0284684573744,
+   927.0985678807764
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Évora": {
+  "rb": "RB6",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 487.9979392115309,
+  "desvio_entre_sementes": 0.016046738808855446,
+  "erro_padrao_mc_max": 0.09173742649110853,
+  "valores_por_semente": [
+   487.97962462628084,
+   488.00466138573216,
+   488.00953162257974
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Coimbra": {
+  "rb": "RB7",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 25.1688637977238,
+  "desvio_entre_sementes": 0.023416422180457877,
+  "erro_padrao_mc_max": 0.034164650574482376,
+  "valores_por_semente": [
+   25.160955800785324,
+   25.15042524126849,
+   25.1952103511176
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Bragança": {
+  "rb": "RB7",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 297.6642031756497,
+  "desvio_entre_sementes": 0.06205073622632467,
+  "erro_padrao_mc_max": 0.06481762171352638,
+  "valores_por_semente": [
+   297.6984541169706,
+   297.7015795272542,
+   297.59257588272425
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Évora": {
+  "rb": "RB7",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "sweep_compromisso",
+  "valor_opcao": 104.1752381420896,
+  "desvio_entre_sementes": 0.033315146445675146,
+  "erro_padrao_mc_max": 0.04208034303777152,
+  "valores_por_semente": [
+   104.14881570722986,
+   104.16423592967655,
+   104.21266278936241
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Coimbra": {
+  "rb": "RB8",
+  "cidade": "Coimbra",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 0.9031920587794957,
+  "desvio_entre_sementes": 0.0029486823416439364,
+  "erro_padrao_mc_max": 0.008218876284400429,
+  "valores_por_semente": [
+   0.9030868330606393,
+   0.9002973977777107,
+   0.9061919455001373
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Bragança": {
+  "rb": "RB8",
+  "cidade": "Bragança",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 0.0181471613669112,
+  "desvio_entre_sementes": 0.0002999749343346857,
+  "erro_padrao_mc_max": 0.0010891379981770664,
+  "valores_por_semente": [
+   0.01844487819516144,
+   0.01784497820311545,
+   0.01815162770245671
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Évora": {
+  "rb": "RB8",
+  "cidade": "Évora",
+  "n_caminhos": 100000,
+  "proveniencia_pacote": "verificado_quadro7",
+  "valor_opcao": 0.9274483721561592,
+  "desvio_entre_sementes": 0.005029828102781502,
+  "erro_padrao_mc_max": 0.008482525433895872,
+  "valores_por_semente": [
+   0.9329012962601242,
+   0.9229903256329977,
+   0.9264534945753554
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Coimbra|r1pct": {
+  "rb": "RB1",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 633.3484427151258,
+  "desvio_entre_sementes": 0.05416907302856965,
+  "erro_padrao_mc_max": 0.11137718400222049,
+  "valores_por_semente": [
+   633.295942069086,
+   633.4041387525508,
+   633.3452473237409
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Coimbra|r5pct": {
+  "rb": "RB1",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 351.66648906586687,
+  "desvio_entre_sementes": 0.03845609611118744,
+  "erro_padrao_mc_max": 0.06774623757318686,
+  "valores_por_semente": [
+   351.709806273157,
+   351.6532913128026,
+   351.63636961164104
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Bragança|r1pct": {
+  "rb": "RB1",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 1528.763144188577,
+  "desvio_entre_sementes": 0.20052672951552822,
+  "erro_padrao_mc_max": 0.23302984263025975,
+  "valores_por_semente": [
+   1528.8886877479306,
+   1528.868865970435,
+   1528.5318788473649
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Bragança|r5pct": {
+  "rb": "RB1",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 904.4338641982599,
+  "desvio_entre_sementes": 0.11277537386516237,
+  "erro_padrao_mc_max": 0.14133747169894936,
+  "valores_por_semente": [
+   904.5290327651885,
+   904.3093026918527,
+   904.4632571377384
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Évora|r1pct": {
+  "rb": "RB1",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 823.1247247496725,
+  "desvio_entre_sementes": 0.04602223277820014,
+  "erro_padrao_mc_max": 0.13692332274559182,
+  "valores_por_semente": [
+   823.166260882345,
+   823.0752493990368,
+   823.1326639676358
+  ],
+  "n_sementes": 3
+ },
+ "RB1|Évora|r5pct": {
+  "rb": "RB1",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 468.89314934212877,
+  "desvio_entre_sementes": 0.09416740535875132,
+  "erro_padrao_mc_max": 0.08338366498591182,
+  "valores_por_semente": [
+   468.9031800850309,
+   468.79436810066295,
+   468.98189984069245
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Coimbra|r1pct": {
+  "rb": "RB2",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 428.9241748066491,
+  "desvio_entre_sementes": 0.013652739070091334,
+  "erro_padrao_mc_max": 0.07997511108944419,
+  "valores_por_semente": [
+   428.913359658252,
+   428.93951574422454,
+   428.91964901747076
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Coimbra|r5pct": {
+  "rb": "RB2",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 218.82934194800941,
+  "desvio_entre_sementes": 0.05006159778491611,
+  "erro_padrao_mc_max": 0.04878659076043281,
+  "valores_por_semente": [
+   218.85552337004117,
+   218.86088377476676,
+   218.77161869922037
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Bragança|r1pct": {
+  "rb": "RB2",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 1145.2533303921161,
+  "desvio_entre_sementes": 0.1141082352235415,
+  "erro_padrao_mc_max": 0.17499631737560264,
+  "valores_por_semente": [
+   1145.2104056765008,
+   1145.3826759781748,
+   1145.166909521673
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Bragança|r5pct": {
+  "rb": "RB2",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 661.1393129678991,
+  "desvio_entre_sementes": 0.11416911629291539,
+  "erro_padrao_mc_max": 0.10624702446049639,
+  "valores_por_semente": [
+   661.0094419874628,
+   661.1846338348603,
+   661.2238630813739
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Évora|r1pct": {
+  "rb": "RB2",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 599.8966325359426,
+  "desvio_entre_sementes": 0.02669610092873542,
+  "erro_padrao_mc_max": 0.10224711688492143,
+  "valores_por_semente": [
+   599.8658091407026,
+   599.9123914139282,
+   599.911697053197
+  ],
+  "n_sementes": 3
+ },
+ "RB2|Évora|r5pct": {
+  "rb": "RB2",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 324.3332135283552,
+  "desvio_entre_sementes": 0.055127890184127025,
+  "erro_padrao_mc_max": 0.061627647913841184,
+  "valores_por_semente": [
+   324.39488964102554,
+   324.316018313387,
+   324.28873263065316
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Coimbra|r1pct": {
+  "rb": "RB3",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 63.951134684886256,
+  "desvio_entre_sementes": 0.025912185108558576,
+  "erro_padrao_mc_max": 0.03281259914867912,
+  "valores_por_semente": [
+   63.921239799800134,
+   63.965003600023145,
+   63.96716065483549
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Coimbra|r5pct": {
+  "rb": "RB3",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 1.477624924574591,
+  "desvio_entre_sementes": 0.009315023523145533,
+  "erro_padrao_mc_max": 0.009237616550263674,
+  "valores_por_semente": [
+   1.4783216427533665,
+   1.4865720268008817,
+   1.4679811041695245
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Bragança|r1pct": {
+  "rb": "RB3",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 426.26605553906785,
+  "desvio_entre_sementes": 0.04869087527976559,
+  "erro_padrao_mc_max": 0.0779750183668438,
+  "valores_por_semente": [
+   426.3137549126819,
+   426.2679813959628,
+   426.21643030855887
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Bragança|r5pct": {
+  "rb": "RB3",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 220.96082897662652,
+  "desvio_entre_sementes": 0.11913409325961678,
+  "erro_padrao_mc_max": 0.0473928037148833,
+  "valores_por_semente": [
+   221.02155282236785,
+   220.82356806828088,
+   221.03736603923082
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Évora|r1pct": {
+  "rb": "RB3",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 161.39467769878175,
+  "desvio_entre_sementes": 0.047268976895100887,
+  "erro_padrao_mc_max": 0.043980776940582576,
+  "valores_por_semente": [
+   161.36101741438938,
+   161.37429769293095,
+   161.4487179890249
+  ],
+  "n_sementes": 3
+ },
+ "RB3|Évora|r5pct": {
+  "rb": "RB3",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 57.409042672239146,
+  "desvio_entre_sementes": 0.006800504909205997,
+  "erro_padrao_mc_max": 0.026872439605150778,
+  "valores_por_semente": [
+   57.40678242566221,
+   57.40366009016972,
+   57.41668550088551
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Coimbra|r1pct": {
+  "rb": "RB4",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.006188884321846544,
+  "desvio_entre_sementes": 0.0002941640946304449,
+  "erro_padrao_mc_max": 0.0005270212211284389,
+  "valores_por_semente": [
+   0.006518438097547105,
+   0.005952845619110045,
+   0.00609536924888248
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Coimbra|r5pct": {
+  "rb": "RB4",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.0,
+  "desvio_entre_sementes": 0.0,
+  "erro_padrao_mc_max": 0.0,
+  "valores_por_semente": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Bragança|r1pct": {
+  "rb": "RB4",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 1.9023765129154304,
+  "desvio_entre_sementes": 0.01599875578770803,
+  "erro_padrao_mc_max": 0.011052267853151793,
+  "valores_por_semente": [
+   1.9127353031445946,
+   1.9104440716203441,
+   1.8839501639813527
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Bragança|r5pct": {
+  "rb": "RB4",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 3.427607245199956e-07,
+  "desvio_entre_sementes": 5.936789897077519e-07,
+  "erro_padrao_mc_max": 1.0282821735599868e-06,
+  "valores_por_semente": [
+   1.0282821735599868e-06,
+   0.0,
+   0.0
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Évora|r1pct": {
+  "rb": "RB4",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.06107650612786578,
+  "desvio_entre_sementes": 0.0030493978594541594,
+  "erro_padrao_mc_max": 0.0017550084473345088,
+  "valores_por_semente": [
+   0.05899819508934382,
+   0.06457722511890886,
+   0.05965409817534466
+  ],
+  "n_sementes": 3
+ },
+ "RB4|Évora|r5pct": {
+  "rb": "RB4",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.0,
+  "desvio_entre_sementes": 0.0,
+  "erro_padrao_mc_max": 0.0,
+  "valores_por_semente": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Coimbra|r1pct": {
+  "rb": "RB5",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 578.8533692837875,
+  "desvio_entre_sementes": 0.0421362906804418,
+  "erro_padrao_mc_max": 0.1003956247938654,
+  "valores_por_semente": [
+   578.9018549204975,
+   578.8326370589622,
+   578.825615871903
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Coimbra|r5pct": {
+  "rb": "RB5",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 308.06459627240605,
+  "desvio_entre_sementes": 0.03309414885851998,
+  "erro_padrao_mc_max": 0.06136088389016624,
+  "valores_por_semente": [
+   308.0299851225441,
+   308.06787423465363,
+   308.0959294600204
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Bragança|r1pct": {
+  "rb": "RB5",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 1449.0644120417148,
+  "desvio_entre_sementes": 0.1171804274030452,
+  "erro_padrao_mc_max": 0.217564043375753,
+  "valores_por_semente": [
+   1448.9368403858996,
+   1449.089142050072,
+   1449.167253689173
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Bragança|r5pct": {
+  "rb": "RB5",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 845.5600505461092,
+  "desvio_entre_sementes": 0.08148620467093284,
+  "erro_padrao_mc_max": 0.13132617368901844,
+  "valores_por_semente": [
+   845.4668367271105,
+   845.5955493724066,
+   845.6177655388107
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Évora|r1pct": {
+  "rb": "RB5",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 791.3485647725996,
+  "desvio_entre_sementes": 0.07754411581922611,
+  "erro_padrao_mc_max": 0.12850450992176438,
+  "valores_por_semente": [
+   791.2602762642032,
+   791.3797883316913,
+   791.4056297219043
+  ],
+  "n_sementes": 3
+ },
+ "RB5|Évora|r5pct": {
+  "rb": "RB5",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 439.4395095034613,
+  "desvio_entre_sementes": 0.12571357004286116,
+  "erro_padrao_mc_max": 0.07803899193458323,
+  "valores_por_semente": [
+   439.5671727564957,
+   439.43551492283905,
+   439.31584083104923
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Coimbra|r1pct": {
+  "rb": "RB6",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 453.7502452643104,
+  "desvio_entre_sementes": 0.04758561303458876,
+  "erro_padrao_mc_max": 0.09241561586659358,
+  "valores_por_semente": [
+   453.73949250010463,
+   453.8022872023869,
+   453.7089560904396
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Coimbra|r5pct": {
+  "rb": "RB6",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 233.46941768727538,
+  "desvio_entre_sementes": 0.06675861357840542,
+  "erro_padrao_mc_max": 0.05603192176380205,
+  "valores_por_semente": [
+   233.49642680840395,
+   233.39338638828016,
+   233.51843986514197
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Bragança|r1pct": {
+  "rb": "RB6",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 1235.3744854801664,
+  "desvio_entre_sementes": 0.2794981955785896,
+  "erro_padrao_mc_max": 0.19601448760413834,
+  "valores_por_semente": [
+   1235.09263061391,
+   1235.3792599951944,
+   1235.6515658313954
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Bragança|r5pct": {
+  "rb": "RB6",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 716.2345162870606,
+  "desvio_entre_sementes": 0.10795438467432539,
+  "erro_padrao_mc_max": 0.11890084755988681,
+  "valores_por_semente": [
+   716.3091354904401,
+   716.1107305034727,
+   716.2836828672688
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Évora|r1pct": {
+  "rb": "RB6",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 667.7280818997058,
+  "desvio_entre_sementes": 0.03458264176646978,
+  "erro_padrao_mc_max": 0.11962457245960496,
+  "valores_por_semente": [
+   667.7680096956216,
+   667.70758186135,
+   667.7086541421456
+  ],
+  "n_sementes": 3
+ },
+ "RB6|Évora|r5pct": {
+  "rb": "RB6",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 365.67187702226084,
+  "desvio_entre_sementes": 0.07710973305103876,
+  "erro_padrao_mc_max": 0.07294087815154515,
+  "valores_por_semente": [
+   365.58283893489266,
+   365.7161218770235,
+   365.71667025486636
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Coimbra|r1pct": {
+  "rb": "RB7",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 124.371464739252,
+  "desvio_entre_sementes": 0.019631539443454183,
+  "erro_padrao_mc_max": 0.04334246806493447,
+  "valores_por_semente": [
+   124.36677004100734,
+   124.3930180040571,
+   124.35460617269156
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Coimbra|r5pct": {
+  "rb": "RB7",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 43.064170087907236,
+  "desvio_entre_sementes": 0.02429703572800931,
+  "erro_padrao_mc_max": 0.026525511817489085,
+  "valores_por_semente": [
+   43.05769384348971,
+   43.09104905694625,
+   43.04376736328574
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Bragança|r1pct": {
+  "rb": "RB7",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 448.15401849577796,
+  "desvio_entre_sementes": 0.0344601686738539,
+  "erro_padrao_mc_max": 0.07905213361577874,
+  "valores_por_semente": [
+   448.1876237975686,
+   448.11876276942894,
+   448.15566892033627
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Bragança|r5pct": {
+  "rb": "RB7",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 242.92178493394786,
+  "desvio_entre_sementes": 0.044985877209371285,
+  "erro_padrao_mc_max": 0.048087444061312906,
+  "valores_por_semente": [
+   242.88054766245597,
+   242.96975945988632,
+   242.91504767950133
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Évora|r1pct": {
+  "rb": "RB7",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 213.3806305837367,
+  "desvio_entre_sementes": 0.01734662426522929,
+  "erro_padrao_mc_max": 0.051647547198006585,
+  "valores_por_semente": [
+   213.3663601452791,
+   213.39993836691357,
+   213.37559323901746
+  ],
+  "n_sementes": 3
+ },
+ "RB7|Évora|r5pct": {
+  "rb": "RB7",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 98.04807664530881,
+  "desvio_entre_sementes": 0.024518934108539062,
+  "erro_padrao_mc_max": 0.0315835634784234,
+  "valores_por_semente": [
+   98.05526298999129,
+   98.06819940574276,
+   98.02076754019238
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Coimbra|r1pct": {
+  "rb": "RB8",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 14.21735531597898,
+  "desvio_entre_sementes": 0.014794086474050947,
+  "erro_padrao_mc_max": 0.031454027953796454,
+  "valores_por_semente": [
+   14.200277059431485,
+   14.226233353643515,
+   14.22555553486194
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Coimbra|r5pct": {
+  "rb": "RB8",
+  "cidade": "Coimbra",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.013881306544765923,
+  "desvio_entre_sementes": 0.001100363286188405,
+  "erro_padrao_mc_max": 0.0008177972971263231,
+  "valores_por_semente": [
+   0.01500258343321857,
+   0.013838213234955729,
+   0.012803122966123471
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Bragança|r1pct": {
+  "rb": "RB8",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.9015644278004945,
+  "desvio_entre_sementes": 0.014162246682044119,
+  "erro_padrao_mc_max": 0.010054723888269692,
+  "valores_por_semente": [
+   0.9078453257763232,
+   0.9114999862898643,
+   0.8853479713352959
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Bragança|r5pct": {
+  "rb": "RB8",
+  "cidade": "Bragança",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 8.868699674054478e-05,
+  "desvio_entre_sementes": 3.8768933344850814e-05,
+  "erro_padrao_mc_max": 4.542630238929844e-05,
+  "valores_por_semente": [
+   8.709246601224095e-05,
+   0.0001282285945484859,
+   5.073992966090749e-05
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Évora|r1pct": {
+  "rb": "RB8",
+  "cidade": "Évora",
+  "taxa_desconto": 0.01,
+  "n_caminhos": 100000,
+  "valor_opcao": 13.993868047323032,
+  "desvio_entre_sementes": 0.015779272797743406,
+  "erro_padrao_mc_max": 0.03220718300090397,
+  "valores_por_semente": [
+   13.992752312349374,
+   14.01017557517531,
+   13.97867625444441
+  ],
+  "n_sementes": 3
+ },
+ "RB8|Évora|r5pct": {
+  "rb": "RB8",
+  "cidade": "Évora",
+  "taxa_desconto": 0.05,
+  "n_caminhos": 100000,
+  "valor_opcao": 0.015829118238574316,
+  "desvio_entre_sementes": 0.00011006893191379513,
+  "erro_padrao_mc_max": 0.0008671308453780642,
+  "valores_por_semente": [
+   0.015872103804916313,
+   0.01591120803399324,
+   0.015704042876813398
+  ],
+  "n_sementes": 3
+ }
+}

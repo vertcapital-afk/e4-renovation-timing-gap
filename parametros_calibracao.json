@@ -1,0 +1,41 @@
+{
+  "descricao": "Full stochastic calibration and scenario definitions for 'When is waiting worth it?' (Tadeu). All parameters as used in production; provenance in README.",
+  "moeda_precos": "EUR reais 2025 (F1); indice multiplicativo adimensional (F2)",
+  "F1_precos_energia": {
+    "fonte": "Eurostat nrg_pc_204 / nrg_pc_202, Portugal, semestral 2007-2025, deflacionado",
+    "OU_log_preco": {
+      "electricidade": {"kappa": 0.2508, "theta_ln": "ln(0.2544)", "sigma": 0.0678, "kappa_IC95": [-0.071, 0.572]},
+      "gas":           {"kappa": 0.2140, "theta_ln": "ln(0.1145)", "sigma": 0.1426, "kappa_IC95": [-0.183, 0.610]}
+    },
+    "GBM": {
+      "electricidade": {"mu": 0.0096, "sigma": 0.0655},
+      "gas":           {"mu": 0.0346, "sigma": 0.1359}
+    },
+    "rho_eg": 0.1750,
+    "P0_EUR_kWh": {"electricidade": 0.2420, "gas": 0.1397}
+  },
+  "F2_custo_tecnologia": {
+    "fonte": "IRENA (2024) Renewable Power Generation Costs in 2023 - official datafile, total installed cost, utility-scale PV, USD constantes 2023/kW",
+    "ancoras_extracao_USD_kW": {"global_2010": 5310.5, "global_2023": 757.7, "alemanha_2010": 4309.5, "alemanha_2023": 730.8},
+    "polos_producao_mu_c": {"f2_alemanha_2015_2023": -0.0696, "f2_global_2010_2023": -0.1474},
+    "sigma_c_registado_nao_usado": {"alemanha": 0.197, "global": 0.069},
+    "bomba_calor_cenarios": [0.0, -0.01, -0.02],
+    "vies_declarado": "utility-scale declina mais depressa que residencial: limite otimista, pro-diferimento"
+  },
+  "cenarios": {
+    "C1_carbono_EUR_tCO2": {"central": "50 constante", "rampa_130": "linear ate 130 em 2040", "rampa_200": "linear ate 200 em 2035"},
+    "C2_EF_rede_kgCO2_kWh": {
+      "central_ancoras": {"2023": {"electricidade": 0.138, "gas": 0.203}, "2030": {"electricidade": 0.055, "gas": 0.203}, "2040": {"electricidade": 0.009, "gas": 0.203}, "2050": {"electricidade": 0.005, "gas": 0.203}},
+      "variantes": "ancoras desfasadas +10 anos (atraso) e -10 anos (avanco)"
+    },
+    "ocupacao_lambda": {"uniforme": 1.0, "empirico": "ICESD 2020, por uso final e arquetipo x zona (agregados; microdados confidenciais)"},
+    "taxa_desconto_real": {"central": 0.03, "robustez": [0.01, 0.05]}
+  },
+  "grelha": {
+    "datas_exercicio": "bienal, ano 0..20 (2030..2050)",
+    "horizonte_simulacao_anos": 30,
+    "n_caminhos": 100000,
+    "n_sementes": 3,
+    "sementes": "deterministicas por chave (SHA-256 dos 8 primeiros hex digitos)"
+  }
+}
